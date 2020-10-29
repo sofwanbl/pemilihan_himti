@@ -1,1 +1,2 @@
 # pemilihan_himti
+The HIMTI leader election software has been built for a long time about 1999 or 2000. This software has been built with Clipper Language Programming and used for elector statistic, which known people already elect and not yet and other facility (statistic, Browsing). Because not an Under Web software, so this software can not run in this website, if you want to run, you have to download and run it under WIndows or DOS. 
