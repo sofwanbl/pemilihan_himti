@@ -1,0 +1,12 @@
+local frame
+Error in line 1: Unrecognized command verb.
+setcolor("w/b","w/bg")
+Error in line 5: Unrecognized command verb.
+frame:=repl(chr(179),9)
+Error in line 6: Unrecognized command verb.
+setcolor("b/w","bg/w")
+Error in line 8: Unrecognized command verb.
+dispbox(4,4,22,51)
+Error in line 9: Unrecognized command verb.
+dbedit(5,5,22,50)
+Error in line 10: Unrecognized command verb.
